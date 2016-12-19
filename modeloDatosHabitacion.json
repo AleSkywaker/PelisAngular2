@@ -1,0 +1,11 @@
+{
+    "hab": {
+        "categoria":"norma/superiror",
+        "tipo": "doble/simple",
+        "reservas": [ 
+            {"fechaIni":"", "fehcaFin":""},
+            {"fechaIni":"", "fehcaFin":""},
+            {"fechaIni":"", "fehcaFin":""}  
+        ]
+    }
+}
